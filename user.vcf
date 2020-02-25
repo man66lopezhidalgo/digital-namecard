@@ -1,10 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Manuel;Lopez;;;
+N:Lopez;Manuel;;;
 FN: Lopez Hidalgo Manuel 
 ORG:Manuel Lopez Hidalgo;
-TITLE:Tecnico\Pre prensa
+TITLE:Tecnico \Pre prensa
 EMAIL;type=INTERNET;type=WORK;type=pref:manuellopezhidalgo@gmail.com
 TEL;type=WORK;type=VOICE:+505 8886 7418
 item1.ADR;type=WORK;type=pref:;;Rep. Colombia;;;Casa No. 38;Managua
